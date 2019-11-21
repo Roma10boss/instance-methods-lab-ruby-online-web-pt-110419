@@ -7,7 +7,7 @@ end
 hugo = Person.new
 hugo.talk
 
-def talk
+def walk
     puts "The Person is walking!"
   end
 end
