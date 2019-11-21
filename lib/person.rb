@@ -8,9 +8,9 @@ hugo = Person.new
 hugo.talk
 
 def talk
-    puts "Hello world!"
+    puts "The Person is walking!"
   end
 end
  
 hugo = Person.new
-hugo.talk
+hugo.walk
