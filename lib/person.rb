@@ -1,7 +1,8 @@
-def talk
+class Person 
+  def talk
     puts "Hello world!"
   end
 end
  
-fido = Dog.new
-fido.bark
+hugo = Person.new
+hugo.talk
